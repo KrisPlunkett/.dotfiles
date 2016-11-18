@@ -87,4 +87,3 @@ source $ZSH/oh-my-zsh.sh
 # Edit zshrc in Sublime
 alias edit_zshrc="sublime ~/.zshrc"
 alias source_zshrc="source ~/.zshrc"
-alias g cim="git commit -m"
