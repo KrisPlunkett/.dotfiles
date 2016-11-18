@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Kristopher Plunkett
+#	email = kris.j.plunkett@gmail.com
+[alias]
+	co = checkout
+	cim = commit
+	st = status
